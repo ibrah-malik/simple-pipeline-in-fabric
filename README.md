@@ -2,7 +2,7 @@
 
 An end-to-end ETL (Extract, Transform, Load) project in **Microsoft Fabric**. A Data Pipeline ingests a CSV file from an external source into a Lakehouse, a PySpark notebook transforms it, and the result is loaded into a Delta table. The notebook is parameterized and orchestrated by the pipeline, so the process is reusable.
 
-![Pipeline run succeeded](screenshots/pipeline-run-success.png)
+![Pipeline run succeeded](pipeline-run-success.png)
 
 ## Architecture
 
